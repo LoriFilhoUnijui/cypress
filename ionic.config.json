@@ -1,0 +1,7 @@
+{
+  "name": "cypress",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
